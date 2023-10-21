@@ -2,6 +2,8 @@
  
  The greatest discord music bot which provides superior music experience.
  
+ This repository is a fork from [the original project](https://github.com/Fyphen1223/CosmoMusic) for personal use.  
+ 
  Using [Lavalink](https://github.com/lavalink-devs/lavalink) v4 and [Shoukaku](https://github.com/Deivu/Shoukaku) Client.
 
  You can invite the public instance (a.k.a the bot which is running in my PC) [here](https://discord.com/api/oauth2/authorize?client_id=1132870841886060637&permissions=8&scope=bot%20applications.commands) , but the bot's uptime is terrbily bad.
@@ -18,22 +20,22 @@
  
  <a href="https://star-history.com/#Fyphen1223/CosmoMusic&Date">
    <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Fyphen1223/CosmoMusic&type=Date&theme=dark" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Fyphen1223/CosmoMusic&type=Date" />
-     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Fyphen1223/CosmoMusic&type=Date" />
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Fyphen-Devs/CosmoMusic-Private&type=Date&theme=dark" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Fyphen-Devs/CosmoMusic-Private&type=Date" />
+     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Fyphen-Devs/CosmoMusic-Private&type=Date" />
    </picture> 
  </a>
 
- [![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/dark/Fyphen1223/CosmoMusic)](https://github.com/dark/Fyphen1223/CosmoMusic/stargazers)
+ [![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/dark/Fyphen-Devs/CosmoMusic-Private)](https://github.com/dark/Fyphen-Devs/CosmoMusic-Private/stargazers)
 
- [![Forkers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/forks/dark/Fyphen1223/CosmoMusic)](https://github.com/Fyphen1223/CosmoMusic/network/members)
+ [![Forkers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/forks/dark/Fyphen-Devs/CosmoMusic-Private)](https://github.com/Fyphen-Devs/CosmoMusic-Private/network/members)
 
 
 # 🖥️ Install on your device
 
  Be aware that this bot might not be suitable for personal uses because it requires SSL certificate or domain or something like that. If you do not want to do such tedious things, you should remove some lines from this repo such as the code that establishes server, or palm AI chat.
  
- Clone this [repository](https://github.com/Fyphen1223/CosmoMusic) somehow. For example, you can simply do this command: 
+ Clone this [repository](https://github.com/Fyphen-Devs/CosmoMusic-Private) somehow. For example, you can simply do this command: 
  
  ```bash
  git clone https://github.com/Fyphen1223/CosmoMusic.git 
